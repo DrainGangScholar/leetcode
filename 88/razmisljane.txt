@@ -11,3 +11,5 @@ find_index where to start merge
 
 	merge then shift
 until arr2[empty]
+
+GLUPO RAZMISLJAS :DDD
